@@ -17,6 +17,6 @@
 <h2>Responsividade</h2>
 
 <p>
-    Para este projeto eu usei a metodologia mobile first e tornei o projeto adaptavél para diferentes tamanhos de telas.
+    Para este projeto eu usei a metodologia mobile first e tornei o projeto adaptável para diferentes tamanhos de telas.
 </p>
 
