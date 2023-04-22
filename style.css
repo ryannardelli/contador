@@ -29,9 +29,8 @@ body > header > h1 {
 }
 
 body > main {
-    display: flex;
     background-color: white;
-    width: 600px;
+    width: 250px;
     padding: 10px;
     margin: auto;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.534);
