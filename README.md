@@ -1,5 +1,7 @@
 <h1>Contador</h1>
 
+<img src="imagem/print-tela.png">
+
 <p>
     Este projeto se trata de um Contador feito com JavaScript que conta os números em ordem crescente e decrescente.
 </p>
