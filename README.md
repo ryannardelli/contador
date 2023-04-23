@@ -17,6 +17,6 @@
 <h2>Responsividade</h2>
 
 <p>
-    Este projeto é responsivo e adaptável para diferentes tamanhos de telas.
+    Eu tornei este projeto responsivo e adaptável para diferentes tamanhos de telas, a partir da metodologia mobile first.
 </p>
 
